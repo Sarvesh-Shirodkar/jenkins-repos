@@ -9,7 +9,7 @@ pipeline {
 				
 	stages {
 	
-			stage ("stage-1') {
+			stage ("stage-1") {
 			
 							steps 	{
 									
@@ -18,7 +18,7 @@ pipeline {
 									}
 							}
 			
-			stage ("stage-2') {
+			stage ("stage-2") {
 			
 							steps 	{
 									
@@ -28,7 +28,7 @@ pipeline {
 								
 								}
 								
-			stage ("stage-3') {
+			stage ("stage-3") {
 			
 							steps 	{
 									
